@@ -1,4 +1,6 @@
  API REST
+URL : https://api-dev-backend.herokuapp.com/
+-----------------------------------------------
  
  versiones:
   - Spring boot Version: 3.9.13.RELEASE
@@ -8,6 +10,7 @@
  
  --> LEVANTAR PROYECTO:
  	
+ 	
 Clonar repositorio:
 	git clone https://github.com/RogerBariles/api.git
 	
@@ -16,5 +19,5 @@ Actualizar librerias:
 	
 	
 DOCUMENTACIÓN SWAGGER:
-http://.../swagger-ui.html#/
+	https://api-dev-backend.herokuapp.com/swagger-ui.html#/
 	
