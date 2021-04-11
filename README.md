@@ -14,3 +14,7 @@ Clonar repositorio:
 Actualizar librerias:
 	mvn clean package
 	
+	
+DOCUMENTACIÓN SWAGGER:
+http://.../swagger-ui.html#/
+	
